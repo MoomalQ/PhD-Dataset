@@ -25,7 +25,7 @@
 [x] Upload B. House meter data raw and clean
 [X] upload B. House Plug/GT data
 [X] code for reading B House data
-[] Raw data for B house removed for meter data, unable to upload check the data upload limit for git. 
+[X] Raw data for B house removed for meter data, unable to upload check the data upload limit for git. 
 ```
 
 
